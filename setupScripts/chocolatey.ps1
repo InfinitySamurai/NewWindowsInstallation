@@ -24,3 +24,4 @@ choco install vlc -y
 choco install git.install -y
 choco install notepadplusplus.install -y
 choco install nvidia-display-driver -y
+choco install docker-desktop -y
