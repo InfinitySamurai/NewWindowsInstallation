@@ -1,5 +1,7 @@
 # New Microsoft installation setup
 
+- Pull down this repo
+	- Probably through the Github UI because a fresh install won't have git or chocolatey installed yet
 - Open Powershell with admin priviledges
 	- To allow script execution for this session run `Set-ExecutionPolicy RemoteSigned –Scope Process`
 - Install [Chocolatey](https://chocolatey.org/install) 
